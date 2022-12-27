@@ -33,7 +33,7 @@ main{
 }
 
 .btn-encriptar{
-  background-color: orange;
+  background: orange;
   color: white;
   padding: 10px;
   width: 40%;
